@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/bsrinivas14/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="bhumikasrc@gmail.com?">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
   </div>
   
   <h1>
