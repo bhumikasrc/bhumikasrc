@@ -41,6 +41,11 @@ A recent graduate from the University of San Francisco with a Bachelor's degree 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="50" height="60"/>
 </div>
+
+---
+
+### 📊 Data Visualization :
+<a href="https://bhumikasrc.github.io/starbucks-nutrition-analysis/">Starbucks Nutrition Analysis</a>
   
 
 <!--
