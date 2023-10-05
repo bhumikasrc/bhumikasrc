@@ -46,6 +46,9 @@ A recent graduate from the University of San Francisco with a Bachelor's degree 
 
 ### 📊 Data Visualization :
 <a href="https://bhumikasrc.github.io/starbucks-nutrition-analysis/">Starbucks Nutrition Analysis</a>
+
+### 📝 Publications :
+<a href="https://diglib.eg.org/handle/10.2312/eged20231016">A Constructivism-based Approach to Treemap Literacy in the Classroom</a>
   
 
 <!--
