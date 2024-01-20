@@ -18,9 +18,9 @@
 </div>
 
 ### 👩🏻‍💻 About Me : 
-A recent graduate from the University of San Francisco with a Bachelor's degree in Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+MS in Data Science Student @ The University of San Francisco <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 MS in Data Science Student @ The University of San Francisco
+- 🔭 Data Scientist at UCSF Health - Exploring LLMs
 - 🌱 Data Wizardry in Machine Learning, NLP, Data Visualization
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I can speak 4 languages!
