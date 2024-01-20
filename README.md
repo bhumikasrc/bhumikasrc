@@ -46,6 +46,7 @@ MS in Data Science Student @ The University of San Francisco <img src="https://m
 
 ### 📊 Data Visualization :
 <a href="https://bhumikasrc.github.io/starbucks-nutrition-analysis/">Starbucks Nutrition Analysis</a>
+<a href="https://www.informationisbeautifulawards.com/showcase/5046-starbucks-analysis-report">Longlisted - 2022 IIB Awards of Data Visualization Society</a>
 
 ### 📝 Publications :
 <a href="https://diglib.eg.org/handle/10.2312/eged20231016">A Constructivism-based Approach to Treemap Literacy in the Classroom</a>
